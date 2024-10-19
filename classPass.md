@@ -8,13 +8,13 @@
 
 ## Features That Must Be Implemented
 
-1. **User Authentication and Profile Management**
-2. **Location-Based Services**
-3. **Added Class Management**
-4. **Payment Gateway Integration**
-5. **User Notifications and Reminders**
-6. **Ratings and Reviews**
-7. **Search & Filtering**
+1. **Users need to have a profile and the ability to log in using email and password or log in with Google.**
+2. **Users should be able to view nearby classes based on their location.**
+3. **Admins should be able to add new classes and update class spot availability.**
+4. **Users should be able to pay using a credit card.**
+5. **Users should receive notifications and reminders for upcoming classes.**
+6. **Users should be able to rate and review classes they have attended.**
+7. **Users should be able to search for classes by type, date, and other filters.**
 
 ## Regions Where ClassPass Operates
 
@@ -27,8 +27,21 @@
 - United Arab Emirates
 
 ---
+## Current Bussiness model 
 
-## Our Business
+   The current business model supports the following sports and activities:
+
+- barre
+- yoga
+- pilates
+- cycling
+- gym
+- boxing
+- running
+- HIIT
+- dance
+
+## Addition Features in our Business
 
 1. You can tailor it to include a variety of sports and fitness activities that are popular in the region, such as:
    - Football
