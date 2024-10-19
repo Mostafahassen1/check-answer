@@ -6,7 +6,7 @@
 
 - The app emphasizes ease of use, with features like scheduling, cancellations, and reminders integrated directly into the platform.
 
-## Features That Must Be Implemented
+## Function Requirements
 
 1. **Users need to have a profile and the ability to log in using email and password or log in with Google.**
 2. **Users should be able to view nearby classes based on their location.**
@@ -31,15 +31,15 @@
 
    The current business model supports the following sports and activities:
 
-- barre
-- yoga
-- pilates
-- cycling
-- gym
-- boxing
-- running
+- Barre
+- Yoga
+- Pilates
+- Cycling
+- GYM
+- Boxing
+- Running
 - HIIT
-- dance
+- Dance
 
 ## Addition Features in our Business
 
@@ -48,11 +48,11 @@
    - Basketball
    - Tennis
    - Swimming
-   - Gym and Fitness Classes
-   - Yoga and Pilates
    - Diving
    - Water Sports
-
+   - Yoga & Pilates
+   - GYM
+     
 2. You can create partnerships with tourist companies to provide packages for tourists that include fitness and sports activities offered by the app.
 
 3. We can add a feature to allow users to book tickets for sports events.
